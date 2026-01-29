@@ -1,0 +1,16 @@
+C:\Users\pac_0\source\WinFormsAppQuizGame\WinFormsAppQuizGame\obj\Debug\net8.0-windows\WinFormsAppQuizGame.Form1.resources
+C:\Users\pac_0\source\WinFormsAppQuizGame\WinFormsAppQuizGame\obj\Debug\net8.0-windows\WinFormsAppQuizGame.csproj.GenerateResource.cache
+C:\Users\pac_0\source\WinFormsAppQuizGame\WinFormsAppQuizGame\obj\Debug\net8.0-windows\WinFormsAppQuizGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pac_0\source\WinFormsAppQuizGame\WinFormsAppQuizGame\obj\Debug\net8.0-windows\WinFormsAppQuizGame.AssemblyInfoInputs.cache
+C:\Users\pac_0\source\WinFormsAppQuizGame\WinFormsAppQuizGame\obj\Debug\net8.0-windows\WinFormsAppQuizGame.AssemblyInfo.cs
+C:\Users\pac_0\source\WinFormsAppQuizGame\WinFormsAppQuizGame\obj\Debug\net8.0-windows\WinFormsAppQuizGame.csproj.CoreCompileInputs.cache
+C:\Users\pac_0\source\WinFormsAppQuizGame\WinFormsAppQuizGame\bin\Debug\net8.0-windows\WinFormsAppQuizGame.exe
+C:\Users\pac_0\source\WinFormsAppQuizGame\WinFormsAppQuizGame\bin\Debug\net8.0-windows\WinFormsAppQuizGame.deps.json
+C:\Users\pac_0\source\WinFormsAppQuizGame\WinFormsAppQuizGame\bin\Debug\net8.0-windows\WinFormsAppQuizGame.runtimeconfig.json
+C:\Users\pac_0\source\WinFormsAppQuizGame\WinFormsAppQuizGame\bin\Debug\net8.0-windows\WinFormsAppQuizGame.dll
+C:\Users\pac_0\source\WinFormsAppQuizGame\WinFormsAppQuizGame\bin\Debug\net8.0-windows\WinFormsAppQuizGame.pdb
+C:\Users\pac_0\source\WinFormsAppQuizGame\WinFormsAppQuizGame\obj\Debug\net8.0-windows\WinFormsAppQuizGame.dll
+C:\Users\pac_0\source\WinFormsAppQuizGame\WinFormsAppQuizGame\obj\Debug\net8.0-windows\refint\WinFormsAppQuizGame.dll
+C:\Users\pac_0\source\WinFormsAppQuizGame\WinFormsAppQuizGame\obj\Debug\net8.0-windows\WinFormsAppQuizGame.pdb
+C:\Users\pac_0\source\WinFormsAppQuizGame\WinFormsAppQuizGame\obj\Debug\net8.0-windows\WinFormsAppQuizGame.genruntimeconfig.cache
+C:\Users\pac_0\source\WinFormsAppQuizGame\WinFormsAppQuizGame\obj\Debug\net8.0-windows\ref\WinFormsAppQuizGame.dll
