@@ -1,0 +1,28 @@
+C:\Users\pac_0\source\CPTR-328 Project\QuizGameServer\QuizGameServer\bin\Debug\net8.0\QuizGameServer.exe
+C:\Users\pac_0\source\CPTR-328 Project\QuizGameServer\QuizGameServer\bin\Debug\net8.0\QuizGameServer.deps.json
+C:\Users\pac_0\source\CPTR-328 Project\QuizGameServer\QuizGameServer\bin\Debug\net8.0\QuizGameServer.runtimeconfig.json
+C:\Users\pac_0\source\CPTR-328 Project\QuizGameServer\QuizGameServer\bin\Debug\net8.0\QuizGameServer.dll
+C:\Users\pac_0\source\CPTR-328 Project\QuizGameServer\QuizGameServer\bin\Debug\net8.0\QuizGameServer.pdb
+C:\Users\pac_0\source\CPTR-328 Project\QuizGameServer\QuizGameServer\obj\Debug\net8.0\QuizGameServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pac_0\source\CPTR-328 Project\QuizGameServer\QuizGameServer\obj\Debug\net8.0\QuizGameServer.AssemblyInfoInputs.cache
+C:\Users\pac_0\source\CPTR-328 Project\QuizGameServer\QuizGameServer\obj\Debug\net8.0\QuizGameServer.AssemblyInfo.cs
+C:\Users\pac_0\source\CPTR-328 Project\QuizGameServer\QuizGameServer\obj\Debug\net8.0\QuizGameServer.csproj.CoreCompileInputs.cache
+C:\Users\pac_0\source\CPTR-328 Project\QuizGameServer\QuizGameServer\obj\Debug\net8.0\QuizGameServer.dll
+C:\Users\pac_0\source\CPTR-328 Project\QuizGameServer\QuizGameServer\obj\Debug\net8.0\refint\QuizGameServer.dll
+C:\Users\pac_0\source\CPTR-328 Project\QuizGameServer\QuizGameServer\obj\Debug\net8.0\QuizGameServer.pdb
+C:\Users\pac_0\source\CPTR-328 Project\QuizGameServer\QuizGameServer\obj\Debug\net8.0\QuizGameServer.genruntimeconfig.cache
+C:\Users\pac_0\source\CPTR-328 Project\QuizGameServer\QuizGameServer\obj\Debug\net8.0\ref\QuizGameServer.dll
+C:\Users\pac_0\source\QuizGameServer\QuizGameServer\bin\Debug\net8.0\QuizGameServer.exe
+C:\Users\pac_0\source\QuizGameServer\QuizGameServer\bin\Debug\net8.0\QuizGameServer.deps.json
+C:\Users\pac_0\source\QuizGameServer\QuizGameServer\bin\Debug\net8.0\QuizGameServer.runtimeconfig.json
+C:\Users\pac_0\source\QuizGameServer\QuizGameServer\bin\Debug\net8.0\QuizGameServer.dll
+C:\Users\pac_0\source\QuizGameServer\QuizGameServer\bin\Debug\net8.0\QuizGameServer.pdb
+C:\Users\pac_0\source\QuizGameServer\QuizGameServer\obj\Debug\net8.0\QuizGameServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pac_0\source\QuizGameServer\QuizGameServer\obj\Debug\net8.0\QuizGameServer.AssemblyInfoInputs.cache
+C:\Users\pac_0\source\QuizGameServer\QuizGameServer\obj\Debug\net8.0\QuizGameServer.AssemblyInfo.cs
+C:\Users\pac_0\source\QuizGameServer\QuizGameServer\obj\Debug\net8.0\QuizGameServer.csproj.CoreCompileInputs.cache
+C:\Users\pac_0\source\QuizGameServer\QuizGameServer\obj\Debug\net8.0\QuizGameServer.dll
+C:\Users\pac_0\source\QuizGameServer\QuizGameServer\obj\Debug\net8.0\refint\QuizGameServer.dll
+C:\Users\pac_0\source\QuizGameServer\QuizGameServer\obj\Debug\net8.0\QuizGameServer.pdb
+C:\Users\pac_0\source\QuizGameServer\QuizGameServer\obj\Debug\net8.0\QuizGameServer.genruntimeconfig.cache
+C:\Users\pac_0\source\QuizGameServer\QuizGameServer\obj\Debug\net8.0\ref\QuizGameServer.dll
